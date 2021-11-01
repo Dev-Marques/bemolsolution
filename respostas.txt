@@ -1,0 +1,16 @@
+1. Cloud devido a maior escalabilidade comparando
+a On-premise que conforme seu crescimento exige uma maior infraestrutura fisica
+local, assim elevando custo de implantação e manutenção, incluindo segurança e 
+confiabilidade de dados já que manter toda uma infraestrutura fisica bem mais custoso.
+
+2. Bom trabalhei com Jiras e acredito ser bem completo, e bem descritivo no desenvolvimento de
+um aplicação possuindo varias ferramentas internas de comunicação e fácil entendimento.
+
+3.Sinto-me capaz por ser uma pessoa criativa, esforçada e disciplinada que sabe trabalhar em equipe 
+e capaz de desenvolver a cooperação mutua entre o membros da equipe.
+
+4. Melhoria na especificações dos requisitos e uma comunicação mais objetiva e diretiva.
+
+5. Com certeza bem válido acho que carrega um pouco de cada entendimento tanto na parte de desenvolvimento que 
+todo processo, como em codificação, pensar em uma solução e um ponto principal na resolução de qualquer
+problema ou atividade e pena ainda não é uma cultura de todos os lugares.
